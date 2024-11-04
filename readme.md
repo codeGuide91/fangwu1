@@ -26,7 +26,11 @@
 - 是否小程序：是
 - maven版本：无限制
 - 硬件环境：Windows
+获取方法
 
+下方扫一扫关注后，后台回复关键词：房屋，查看导入教程视频、sql脚本和源码等
+
+![目录2](https://www.codemarket.fun/202407032155305.png)
 ## 4、功能介绍
 
 ### 4.1 登录
@@ -35,11 +39,7 @@
 
 ### 4.2 管理员模块
 
-![系统图](https://www.codemarket.fun/202407141550482.png)
-
-![管理员-首页](https://www.codemarket.fun/202407141550049.png)
-
-![管理员-租客](https://www.codemarket.fun/202407141550372.png)
+![系统图](https://www.codemarket.fun/20240714155048###  
 
 ![管理员-房东](https://www.codemarket.fun/202407141550838.png)
 
